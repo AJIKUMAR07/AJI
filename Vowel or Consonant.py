@@ -9,4 +9,4 @@ elif(ch == 'b' or ch == 'c' or ch == 'd' or ch == 'f' or ch == 'g' or ch == 'h'
        or ch == 'V' or ch == 'W' or ch == 'X' or ch == 'Y'or ch=='Z' ): 
     print("Consonant")
 else:
-   print("Invaild") 
+   print("invaild") 
