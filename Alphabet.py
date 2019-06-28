@@ -1,10 +1,10 @@
-ch = input("")
-if(ch == 'a' or ch == 'e' or ch == 'i' or ch == 'o' or ch == 'u' or ch == 'A'
-       or ch == 'E' or ch == 'I' or ch == 'O' or ch == 'U'or ch == 'b' or ch == 'c' or ch == 'd' or ch == 'f' or ch == 'g' or ch == 'h'
-       or ch == 'j' or ch == 'k' or ch == 'l' or ch == 'm'or ch == 'n' or ch == 'p' or ch == 'q' or ch == 'r' or ch == 's' or ch == 't'
-       or ch == 'v' or ch == 'w' or ch == 'x' or ch == 'y'or ch=='z'or ch == 'B' or ch == 'C' or ch == 'D' or ch == 'F' or ch == 'G' or ch == 'H'
-       or ch == 'J' or ch == 'K' or ch == 'L' or ch == 'M'or ch == 'N' or ch == 'P' or ch == 'Q' or ch == 'R' or ch == 'S' or ch == 'T'
-       or ch == 'V' or ch == 'W' or ch == 'X' or ch == 'Y'or ch=='Z' ): 
+c = input("")
+if(c  == 'a' or c == 'e' or c == 'i' or c== 'o' or c == 'u' or c== 'A'
+       or c == 'E' or c == 'I' or c == 'O' or c == 'U'or c == 'b' or c == 'c' or c == 'd' or c == 'f' or c == 'g' or c== 'h'
+       or c == 'j' or c == 'k' or c == 'l' or c == 'm'or c == 'n' or c == 'p' or c == 'q' or c == 'r' or c == 's' or c == 't'
+       or c == 'v' or c == 'w' or c == 'x' or c == 'y'or c=='z'or c == 'B' or c == 'C' or c == 'D' or c == 'F' or c == 'G' or c == 'H'
+       or c == 'J' or c == 'K' or c == 'L' or c == 'M'or c == 'N' or c == 'P' or c == 'Q' or c == 'R' or c == 'S' or c == 'T'
+       or c == 'V' or c == 'W' or c == 'X' or c == 'Y'or c=='Z' ): 
     print("Alphabet")
 else:
    print("No")    
