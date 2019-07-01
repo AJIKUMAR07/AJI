@@ -1,12 +1,12 @@
-a= int(input(""))
-b= int(input(""))
-c= int(input(""))
+n= int(input(""))
+m= int(input(""))
+o= int(input(""))
  
-if (a> b) and (a>c):
-   largest =a
-elif (b> a) and (b>c):
-   largest =b
+if (n> m) and (n>o):
+   largest =n
+elif (m>n) and (m>o):
+   largest =m
 else:
-   largest =c
+   largest =o
  
 print("",largest)
