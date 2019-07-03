@@ -1,5 +1,5 @@
-v,r=map(int,input().split())
-for j in range(v+1,r):
+e,p=map(int,input().split())
+for j in range(e+1,p):
   ch=j
   fnd=0
   while (j>0):
